@@ -1,0 +1,28 @@
+/* ORDERED LIST */
+/* ol{
+ list-style-type: upper-roman;
+} */
+
+/* UNORDERED LIST */
+/* ul{
+    list-style-type: square;
+} */
+
+/* images for bullets */
+/* ul{
+ list-style-image:url(./images/icons8-arrow-20.png);
+} */
+
+/* list style position */
+/* .illuminations{
+    list-style-position: outside;
+    
+}
+.season{
+    list-style-position: inside;
+} */
+
+/* list shothand */
+ul{
+    list-style: inside square;
+}
