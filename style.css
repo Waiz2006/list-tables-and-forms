@@ -62,11 +62,48 @@ background-color: wheat;
 
 
     /* gaps between cells */
-    td {
+    /* td {
         background-color: #0088dd;
         padding: 15px;
         border: 2px solid #000000;}
         table.one {
         border-spacing: 5px 15px;}
         table.two {
-        border-collapse: collapse;}
+        border-collapse: collapse;} */
+
+        /* forms styling */
+        /* #email{
+            margin-bottom: 10px;
+            background-image: url(./images/icons8-email-100.png);
+            background-size: contain;
+            background-repeat: no-repeat;
+            padding-left: 20px;
+            padding-right: 5px;
+        }
+        
+
+   
+    #github{
+        background-image: url(./images/icons8-github-20.png );
+        background-size: contain;
+        background-repeat: no-repeat;
+        padding-left: 20px;
+        
+        
+    } */
+
+
+    /* STYLING FIELD SETS AND LEGENDS */
+    fieldset {
+        width: 350px;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: right;}
+        legend {
+        background-color: #efefef;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 10px 20px;
+        text-align: left;
+        text-transform: uppercase;}
