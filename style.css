@@ -23,6 +23,50 @@
 } */
 
 /* list shothand */
-ul{
+/* ul{
     list-style: inside square;
+} */
+
+/* table properties */
+/* table{
+    width: 600px;
+    padding: 20px;
+    text-transform: uppercase;
+    border-top: 2px solid palevioletred;
+    border-bottom: 2px solid blue;
+} */
+
+/* table,th,td{
+    border: 2px solid black;
+    text-align: center;
+    
 }
+
+
+tr:hover{
+background-color: wheat;
+} */
+
+/* th:hover{
+    color: blue;
+} */
+
+/* borders on empty cells */
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;}
+    table.one {
+    empty-cells: show;}
+    table.two {
+    empty-cells: show;} */
+
+
+    /* gaps between cells */
+    td {
+        background-color: #0088dd;
+        padding: 15px;
+        border: 2px solid #000000;}
+        table.one {
+        border-spacing: 5px 15px;}
+        table.two {
+        border-collapse: collapse;}
